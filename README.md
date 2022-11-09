@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
   👋 Hi, I’m Lukas
   
   
-  [Website](https://lukastroyer.com) &bull; [LinkedIn](https://linkedin.com/in/lukas-troyer)
+  [Website](https://lukastroyer.com) &bull; [LinkedIn](https://linkedin.com/in/lukas-tr)
   
 </div>
